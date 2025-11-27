@@ -1,0 +1,17 @@
+img{
+    width: 50%;
+}
+
+header{
+    background-color: blueviolet;
+    width: 500px;
+    display: inline-block;
+    color: #fff;
+
+}
+
+nav{
+    background-color: white;
+    width: 800px;
+    display: inline-block;
+}
